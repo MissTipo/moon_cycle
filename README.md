@@ -5,7 +5,7 @@ A mestruation tracking and prediction app that can act as a pregnancy calendar a
 guide for female reproductive health and well-being
 
 ## Technologies
-.Django
-.GraphQL
-.PostgreSQL
-.React
+- Django
+- GraphQL
+- PostgreSQL
+- React
